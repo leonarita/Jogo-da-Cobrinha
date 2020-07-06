@@ -5,3 +5,7 @@
 ## Projeto desenvolvido na Digital Innovation One.
 
 Esse projeto visa recriar o famoso "Jogo da Cobrinha" utilizando `HTML`, `CSSe` e `Javascript`.
+
+<br>
+
+<img src="./uploads/foto1.png" />
